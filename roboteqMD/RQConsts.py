@@ -4,7 +4,7 @@
 PREF_SETCMD = "!"
 PREF_SETCONF = "^"
 PREF_GETVAL = "?"
-PREF_GETCONF = "!"
+PREF_GETCONF = "~"
 PREF_MAINT = "%"
 PREF_HISTORY = "#"
 
